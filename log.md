@@ -1,11 +1,12 @@
 # 100 Days of Code - Log
 
-### Day 1: October 1, 2025
+### Day 1: October 13, 2025
 
-**Today's Progress:** Started Learning Figma's Interface
+**Today's Progress:** Completed an Hour and Thirty Minutes of HTML
 
-**Thoughts:** The controls to zoom in/out and pan in different
-directions is something I still need to get the hang of. But
-understanding the UI itself doesn't seem so difficult.
+**Thoughts:** Watching an hour and 30 minutes worth of lessons was definitely
+harder than I thought it would be. The lessons were pretty much revision
+excluding links where I learnt about the download attribute and how to link to
+an email or telephone number.
 
 **Link to Work:** [Flux-Figma-Build-Tutorial](Link Unavailable)
