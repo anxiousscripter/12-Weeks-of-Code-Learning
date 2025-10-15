@@ -23,3 +23,14 @@ favorite was learning about semantics. It makes it easier for me to work when I
 know that I'm atleast using the appropriate tags when building projects.
 
 **Link to Work:** [Project-Name](Link Unavailable)
+
+### Day 3: October 15, 2025
+
+**Today's Progress:** Completed Dave Gray's HTML for Beginners Course
+
+**Thoughts:** Working on the ending project was fun. I definitely forgot how
+to use some semantic elements, but overall I think I did pretty well for my
+first attempt without any reference to previous lessons or looking at the
+solution files.
+
+**Link to Work:** [Project-Name](Link Unavailable)
