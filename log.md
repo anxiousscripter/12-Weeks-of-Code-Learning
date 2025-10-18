@@ -34,3 +34,14 @@ first attempt without any reference to previous lessons or looking at the
 solution files.
 
 **Link to Work:** [Project-Name](Link Unavailable)
+
+### Day 4: October 18, 2025 [Missed 2 Days]
+
+**Today's Progress:** Created 3 Site Samples and Covered a Few Minutes of a Figma Tutorial
+
+**Thoughts:** Creating the site samples was pretty easy using AI but the prompt
+definitely had to be thorough for it to give me the results I wanted.
+As for learning to use Figma, its definitely coming off tougher than I expected
+but I guess the challenges are where I'll learn the most.
+
+**Link to Work:** [Project-Name](Link Unavailable)
