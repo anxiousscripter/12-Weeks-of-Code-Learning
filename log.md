@@ -45,3 +45,14 @@ As for learning to use Figma, its definitely coming off tougher than I expected
 but I guess the challenges are where I'll learn the most.
 
 **Link to Work:** [Project-Name](Link Unavailable)
+
+### Day 5: October 19, 2025
+
+**Today's Progress:** Built a Figma Webpage in HTML
+
+**Thoughts:** Building out the page was an enjoyable experience. I tried my
+best to use whatever I could remember from the HTML course I took, as well as
+make use of the most appropriate semnatic elements when building out the page.
+I'm excited to see how this turns out once I start styling it with CSS.
+
+**Link to Work:** [Project-Name](Link Unavailable)
