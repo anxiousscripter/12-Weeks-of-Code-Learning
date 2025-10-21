@@ -56,3 +56,13 @@ make use of the most appropriate semnatic elements when building out the page.
 I'm excited to see how this turns out once I start styling it with CSS.
 
 **Link to Work:** [Project-Name](Link Unavailable)
+
+### Day 6: October 21, 2025 [Missed 1 Day]
+
+**Today's Progress:** Built a Figma Webpage in HTML
+
+**Thoughts:** I forgot a lot of the semantic HTML I was supposed to use but I'm
+still glad that I could build the page out in HTML. I might go over it before
+styling with CSS just to make it better with semantics and structure.
+
+**Link to Work:** [Project-Name](Link Unavailable)
