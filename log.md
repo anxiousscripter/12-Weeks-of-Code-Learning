@@ -66,3 +66,14 @@ still glad that I could build the page out in HTML. I might go over it before
 styling with CSS just to make it better with semantics and structure.
 
 **Link to Work:** [Project-Name](Link Unavailable)
+
+### Day 7: October 22, 2025
+
+**Today's Progress:** Started Styling The Media Company Page
+
+**Thoughts:** I haven't played around with CSS in a while so the styling process
+did feel a bit overwhelming. Even though I didn't do much, I still learnt
+something new: how to create a background image through css instead of using the
+html img element.
+
+**Link to Work:** [Project-Name](Link Unavailable)
