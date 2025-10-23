@@ -77,3 +77,13 @@ something new: how to create a background image through css instead of using the
 html img element.
 
 **Link to Work:** [Project-Name](Link Unavailable)
+
+### Day 8: October 23, 2025
+
+**Today's Progress:** Started Building a Webpage From a Wireframe
+
+**Thoughts:** I'm not too familiar with CSS so it was a bit challenging having
+to recall, use and build out sections with flexbox and grid. I still have a lot
+to learn about them but I'm glad that I got at least 1 section done.
+
+**Link to Work:** [Project-Name](Link Unavailable)
