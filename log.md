@@ -87,3 +87,13 @@ to recall, use and build out sections with flexbox and grid. I still have a lot
 to learn about them but I'm glad that I got at least 1 section done.
 
 **Link to Work:** [Project-Name](Link Unavailable)
+
+### Day 9: October 24, 2025
+
+**Today's Progress:** Built a Category Section Using CSS Grid
+
+**Thoughts:** Even though I didn't manage to fully build the image gallery with
+CSS grid yesterday, I went over it today and found that I wasn't far off from
+completing it. I'm happy that I was at least close to doing it myself.
+
+**Link to Work:** [Project-Name](Link Unavailable)
